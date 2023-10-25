@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    
+    
+}
+#one{
+    color: aqua;
+     display: in;
+}
+#two{
+    border-style: solid;
+    border-width: 3px;
+
+}
+button{
+    background-color: orange;
+}
+#THREE{
+    color:blue ;
+    
+    
+}
+#FOUR{
+    color: greenyellow;
+}
+div{
+    display: inline;
+}
